@@ -254,9 +254,9 @@ export default function App() {
             className="flex gap-6 sm:gap-10 mt-10 px-4"
           >
             {[
-              { value: "500+", label: "Projects" },
+              { value: "50+", label: "Projects" },
               { value: "50K+", label: "Followers" },
-              { value: "5+", label: "Years Exp." },
+              { value: "3+", label: "Years Exp." },
             ].map((stat) => (
               <div key={stat.label} className="text-center">
                 <p className="text-2xl sm:text-3xl font-bold bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
