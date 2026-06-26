@@ -65,7 +65,7 @@ const socialLinks = [
     icon: TikTokIcon,
     color: "from-cyan-400 via-pink-500 to-white",
     hoverColor: "hover:from-cyan-300 hover:via-pink-400 hover:to-gray-100",
-    url: "https://tiktok.com/@rizqifadhoil",
+    url: "https://www.tiktok.com/@awakreative",
   },
   {
     name: "YouTube",
@@ -81,7 +81,7 @@ const socialLinks = [
     icon: TelegramIcon,
     color: "from-blue-400 to-cyan-400",
     hoverColor: "hover:from-blue-300 hover:to-cyan-300",
-    url: "https://t.me/rizqifadhoil",
+    url: "https://t.me/rizqixawakreative",
   },
   {
     name: "Email",
@@ -89,7 +89,7 @@ const socialLinks = [
     icon: Mail,
     color: "from-emerald-400 to-teal-500",
     hoverColor: "hover:from-emerald-300 hover:to-teal-400",
-    url: "mailto:rizqi@email.com",
+    url: "#",
   },
 ];
 
